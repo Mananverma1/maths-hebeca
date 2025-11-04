@@ -1,0 +1,4 @@
+- [x] Update index.html to add meta refresh tag redirecting to http://localhost:5173/
+- [x] Create public/pdfs folder structure for chapter PDFs
+- [ ] Update chapters.ts to include PDF paths
+- [x] Update NotesPreview.tsx to display actual PDFs instead of placeholders
