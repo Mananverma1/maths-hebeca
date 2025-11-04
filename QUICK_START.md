@@ -28,11 +28,11 @@ After running `npm run dev`, you'll see:
 ```
   VITE v5.x.x  ready in xxx ms
 
-  ➜  Local:   http://localhost:5173/
+  ➜  Local:   http://localhost:5174/
   ➜  Network: use --host to expose
 ```
 
-**Click on `http://localhost:5173/` or copy it to your browser!**
+**Click on `http://localhost:5174/` or copy it to your browser!**
 
 ---
 
