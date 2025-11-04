@@ -9,5 +9,5 @@ export default defineConfig({
       '@': resolve(__dirname, './src'),
     },
   },
-  base: '/maths-hebeca/',
+  base: process.env.NODE_ENV === 'production' ? '/maths-hebeca/' : './',
 })
